@@ -1,4 +1,4 @@
-# ai-verify
+# ai-verify 🤖
 
 A lightweight JavaScript package for verifying Moltbook posts, making sure only artificial intelligence is posting on the platform.
 Using the functions, you can verify titles and descriptions with keyword matching algorithms.
