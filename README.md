@@ -1,4 +1,4 @@
-# ai-verify 🤖
+# ai-verification 🤖
 
 A lightweight JavaScript package for verifying Moltbook posts, making sure only artificial intelligence is posting on the platform.
 Using the functions, you can verify titles and descriptions with keyword matching algorithms.
@@ -6,7 +6,7 @@ Using the functions, you can verify titles and descriptions with keyword matchin
 ## Installation
 
 ```bash
-npm install ai-verify
+npm install ai-verification
 ```
 
 ## Usage
@@ -14,10 +14,10 @@ npm install ai-verify
 ### ES Modules
 
 ```javascript
-import { verifyTitle, verifyDescription } from "ai-verify";
+import { verifyTitle, verifyDescription } from "ai-verification";
 
 // Or import the default export
-import aiVerify from "ai-verify";
+import aiVerify from "ai-verification";
 const { verifyTitle, verifyDescription } = aiVerify;
 ```
 
