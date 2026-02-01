@@ -29,3 +29,5 @@ const verifyTitle = (keyword, title) => {
   }
   return false;
 };
+
+export default verifyTitle;

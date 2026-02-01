@@ -22,3 +22,5 @@ const verifyDescription = (keyword, description) => {
   }
   return true;
 };
+
+export default verifyDescription;
